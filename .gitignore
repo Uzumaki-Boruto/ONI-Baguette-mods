@@ -1,2 +1,9 @@
 /.vs
 /packages
+/src/Alchemist/obj
+/src/Alchemist/bin
+/src/BaguetteCore/obj
+/src/BaguetteCore/bin
+/src/VietnameseFood/obj
+/src/VietnameseFood/bin
+/src/BaguetteTranslateFileGenerator
